@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\Google Chinese map correction demo-vs2010\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
